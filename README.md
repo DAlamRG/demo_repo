@@ -4,3 +4,6 @@ Puedo formatear mi texto con los comandos de markdown. Por ejemplo, para negrita
 **negritas**.
 
 Para escribir en italicas: *italicas*.
+
+
+También puedo incluir una imágen ![akira poster](https://imgs.abduzeedo.com/files/articles/akira_fanart/ph1.jpg)
