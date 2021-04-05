@@ -9,3 +9,9 @@ Para escribir en italicas se encierra en asteriscos: *italicas*.
 
 También puedo incluir una imágenesgi 
 ![akira poster](https://imgs.abduzeedo.com/files/articles/akira_fanart/ph1.jpg)
+
+
+## Local development
+
+1. Open index.html in your browser
+2. cf
