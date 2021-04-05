@@ -14,4 +14,4 @@ También puedo incluir una imágenesgi
 ## Local development
 
 1. Open index.html in your browser
-2. cf
+2. Have fun
